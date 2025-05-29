@@ -1,0 +1,4482 @@
+[
+  {
+    "role": "user",
+    "content": "昵称：炸毛超超"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：未薇雪"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：眼镜蛇与枯叶蝶"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：主张zyzyyyzz"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：ARS杞"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：污毒菌"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：东里雪怀"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：金焱烟"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：索菲娅女士"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：lolo0816"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Matilay紫夜"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：青蛙停快向前跑"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Patriea"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：谁也"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：玫瑰蒙德人"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：暮旻子"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：咸豆漿"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：尝一下还不错"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：午饭也忘了吃"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：风起幻漪"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Lee豆花"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：海月__"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：寻者逍_Sh1ao_O"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Sibylll_yu"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：侠士本喵"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：夜半诡笑"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：山鬼三台"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：闷墩儿妹妹"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：阿丹正传鸭"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：川和诹琳"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：总攻阿肆"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：间歇性努力蟹老板"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：炭烤天妇罗寿司"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：橙子吃太多"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：塞西马天尼"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：帅气少年咔叽叽"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：俺的嘴开过光"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：搜查本部长"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：陽祭十七"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：没钱的萧世"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：澜溪渡"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：o沛曦o"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：向日葵--花语"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：板栗荔荔荔荔荔荔"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：EdEn-latata"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：冰点_ice_point"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：可米猫komi"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：石大仙撒"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：donacial"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：艾斯爱墓"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：你就是吃咸了"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：给你吃糖呀呀呀"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：续写qwq"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：懒癌60"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：柯西大帅比"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：电子鼠物语"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：网络网哒"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：坦克里的哲学家"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：超级轩轩轩轩"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：i可又戒不掉"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：一只黄色的南瓜"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：也似长安道丶"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：小象xxxyr"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：凝楠楠"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：-高阶の佩奇-"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：ty6r"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：永恒流淌着的爱之乐章"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：叩问三生"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：逸清gg"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：诶我枣呢"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：AD钙狗"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：ESTP"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：抹茶翘翘牌福灵剂"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：压实度的苦茶子"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：容不修"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：赛安"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：贼心不死-"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Inframaterialist"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：xaviera_tsui"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：逆天行客_"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：sf声声子"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：-是月流光-"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：暮离仙贝"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：从今天起改名叫日立"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：是小怿怿"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：奶牛猫姐-miao"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：比卡否"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：是呀是呀没错没错"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：OldManster"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：如苏如我"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：时节雪-"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：瀮酒壹十柒"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：秃秃兔兔吐吐了"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：在下_嘴瓢大师"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：能成为神助攻的只有我自己"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：醉季眠"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：白川透子"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：刘二副"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：哪时开饭啊"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：水母头老大"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：葡萄醉了 "
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：焱之"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：JasmineT "
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：怀瑾"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：钓你都不用打窝_"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：路人转个身"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：穗之影"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：仙桃爷"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：不渡寒川_"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：麦草叔叔"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：明白地糊涂"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：卡瓦尼无敌"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：我特么是个小号"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：淡镜川"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：骡的岛清洁工"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：影CAESAR"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：鲤千鸟"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Atheris1"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：暮夏廿八"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：陌客-"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：冒失的兔子 "
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：迷雾"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：大口吃餅乾?? "
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：一只大白猫D "
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：秋宝u"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：_板栗子_"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：-慕深-"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Mullo77"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：在河下游见"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：_烟囱_"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Viva La Vida "
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：7788"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：良心起名社 "
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：熱河 "
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：北极熊的红蔷薇"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：看我一拳一个嘤怪"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：某超频的元谋人"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：书之记忆0"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：越鸟与雨林"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：L-Morry"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：榴九蓮"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：皮球龙"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：小江鱼哦"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Yuki_樱"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：粳米"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：温酒伴鹿"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：汪汪先先贝"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：讲道理的sr"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：里咯撒路"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：这孩子打小就机灵"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Kyuusam"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：七宫只因"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：niniwy"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：木四水樱花落"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：RTX7000ADA"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：cheese就是力量20"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：羽生临"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Klein_GC"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：凌墨青天"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Parodoxs"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Wang "
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：红烧鱼"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：拉奥孔"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：煊皓"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：茉白"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Theworld1314"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：上官婉儿"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：王玉勤 "
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：一拳打爆宇宙 "
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：弗洛伊德的狗"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：森森然"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：马油面包"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：蝎子莱莱 "
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：懿墐悠 "
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：日啖三千"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：XD"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Yes. "
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：巫医神兔"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：乌拉蕾"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：狮卯 "
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：夏天在哪 "
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：贝贝缸点读机 "
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：既望 "
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：火线番茄 "
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Newniuo"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Levitate"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Xiuxiu "
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Mirai "
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：杏仁露里穿梭"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：纸吸管"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：becky~p"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：赖在你怀里的猫"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：momo不nomo "
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：toger"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Lucky小企鹅 "
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：咖啡喵"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：杏菜"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：麻辣兔丁"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：江蒂"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：嘎嘎呱 "
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：尼罗河花园"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：非洲迷你刺猬 "
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：桃潜梦呓录"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：拒绝茄子"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Theo_jd "
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：餘风万世"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：石头John"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：歌塔"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：白小茉"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：渔歌子 "
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：木若愚 "
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Faustcao"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：焱之"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：JasmineT "
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：怀瑾"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：R_Lunary"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Royec美味生巧"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：天鬼 "
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：争流 "
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Hermann"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：椰子油 "
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：冒失的兔子 "
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：迷雾"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：大口吃餅乾?? "
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：一只大白猫D "
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：和歌山雪羽"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Viva La Vida "
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：7788"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：良心起名社 "
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：熱河 "
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：钢之心"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：up666down"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：醉听风雨"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：林紫Jasmine "
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：秋水鱼肥"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：日啖菠萝三百头"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：点梦"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：汝清"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：beborn"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：球球"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：小橘子"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Taurus"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：大鹅朋友圈"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：茄茄"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：yug"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：懒蛋蛋"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：蜜桃kiyomi"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：朱弦月"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：檀檀初允吖"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：面巾纸（Akso流浪女）"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：齐霁Lhmt"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：mingsuk"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Jessie爱健身"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：昼舟."
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：人间小橄榄(冷夏版)"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：窈纠"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：骑士的等待波尔卡"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：笑发财了"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Emotion熙月"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：草莓味儿耶耶"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：搞抽象的好料子"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：晴天Haru"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：铵根离子"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：兹利亚诺"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：白墨玄（青林）"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：侯斯顿之恋"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：不是奕."
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：sinsuh"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：果粒多"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：鲷鱼烧味吉伊"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：化作飞鸟入梦"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：你好，我要吃饭了"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：鱼丸不鱼"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：灵魂要去别墅了"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Sing"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：南有乔木，不可休思"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：桃之夭夭"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：卷毛邦尼"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：气走"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Poisonnnh"
+  },
+  {
+    "role": "assistant",
+    "content": "ENFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：潘朵朵"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Yara头头丶"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：四月鱼"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：葡萄芋圆冻冻"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：honeycici"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：卡特加特的王"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：长青"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Aquarius"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：很女儿的妈"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Vivi 冷猫姐姐"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：白河愁"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：一棵银杏树"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：局部最优解"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：弈."
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：葡萄干炒鼻屎"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Venice鹤"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：任平生"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：暴躁小鱼"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：明朗"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：南宫问天"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：cn凛子"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Ginny～FT"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：金卡拉"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：yu宙奇猿"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：车坏了就修"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：轻舟已创大冰山"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：掌上米猪"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：呜呼呼"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：purple"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Sasha"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：叫我母老师"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：叉子困了"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：游荡的怪怪怪怪瘦"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Eukinoia"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：知了大王有话说"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：拿哪来的电脑桌?"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：国家一级废物（打工版）"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：老公孩子在天堂"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：疯向律师"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：改什么名儿好呢？"
+  },
+  {
+    "role": "assistant",
+    "content": "ENTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：本杰"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：薄荷汽水贩卖机"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：撩妹局局长??"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Shaw"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：侯同学想当酋长"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：健健康康每一天"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：做我的猫"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：早早??"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：皮蛋肉饼汤"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Leews"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：诺克萨斯点子王女士"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：旺仔芋泥卷"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：wait a minute"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：福鲁礼慢半拍"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：??c没事"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：stargazer"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：苏三的鸟儿成双对"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：之之复之之"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：大好特好菠??"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Harry Lin ?? ハル"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：高个子姐姐"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：正在学习的肉松饼"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：宝藏小敏"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：上班摆子"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：芝士土豆泥"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：DiamondTong"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：醉佳时分"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：iv筱"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：阴暗毒妇之克死八个前任"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：1224"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：超雄糖尿病老奶狂喝奶茶"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：小狼丶狼尾"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Immortal_z01"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：一坨五彩斑斓的答辩"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：铁骨筝筝"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：暮声"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Eagerly Seek Fresh Pleas"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：台妹萌萌"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：??特仑苏卷卷羊??"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：小潮同学"
+  },
+  {
+    "role": "assistant",
+    "content": "ESFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：卷心菜"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Maud"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：兜兜子"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Maffee_"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：四月Taurus"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Miss Chen考到cpa前不改名"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：霁阳??"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Hydroxytryptamine"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：温昭"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：贺崽"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Mumu"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：虺琪儿"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：李sohee还是太全面了"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：万事发生皆有利于我"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Litchi"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：大婷儿是我大名儿"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：多萝"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：喝一杯卡布奇诺"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Tina"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：经姬学混混（打工中萎靡版）"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：imdoubleseven"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：沐ゃ??"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：铁头人"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：妄肆"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：?mrain"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：把妹王"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：milk牛奶味"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：阿喆菜菜子?"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：斯莱特林的一团墨镜肉泥"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：逃吉吉"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：元味xiao哭包"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：郑可儿"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：刚刚吞屁屁(体验版)"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：我要告发熹贵妃私通"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：一杆子给你杵地上"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：*MintChoco"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：高锰酸钾制氧气"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：爱吃冰鹡鸰"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：吃不吃Berry??"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：我是你的小龟大人"
+  },
+  {
+    "role": "assistant",
+    "content": "ESTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：啵啵虎sister"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：兔子快跑"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Casablancasweetheart"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：好想吃三文鱼"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：冬夜诗颂"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：超级名字"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Zico^_^"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Hush."
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：badada"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：守一"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：询初"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：同名男子"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：月白"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：理逝"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Chase"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：浮生染指一烟花"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：烦恼全无女士"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：一支河"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：丸子優"
+  },
+  {
+    "role": "assistant",
+    "content": "INFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：一只橘猫"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：慢慢"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：随风飘荡"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：玄武岩"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Merely."
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Jame本人"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：linking"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：奶酪月球"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：春日雾"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：.晴天的腐烂尸体."
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：念念"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：一颗香水柠"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：时雨"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Yvnee"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Raven粥"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：熊娭毑"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：mumu"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：初音隐泉"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：candy"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Penguini"
+  },
+  {
+    "role": "assistant",
+    "content": "INFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Shirley"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Vesker Lian"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：刘仁佐"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：兔飞飞"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：CQ宇宙"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Monicacaca（生活流水账）"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：常日悠悠"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：無有"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：展信佳"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Shawn"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Mismo"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：N109的狸花大王"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：魚蝦貝類"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：互影"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：everly. neverland"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Asia"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：肥仔??"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：STICKYFINGERS"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：胡言庸"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：霜寒"
+  },
+  {
+    "role": "assistant",
+    "content": "INTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：夏天的气泡水"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：苹果切面"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：一氧化碳有剧毒"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Izzystraxl"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：TianTEAm"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：VI"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：当星空亲吻海洋"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：8OO pm"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：零叁"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：小猫神"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：流浪捷捷"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：首尔下泡菜就见面"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：竹有千"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：BEDLAMITE"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：杨卡皮巴拉"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：鹿joejoe"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：慢"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：拉倒间的大树"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：重生之落难千金"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：有期倦"
+  },
+  {
+    "role": "assistant",
+    "content": "INTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：碎玻璃(单推沙耶香)"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：李玲玲接受抽象小饼干"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：一只夜喵"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：麦兜响当当"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：unbengable"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：腿仔到处玩"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：小貓飯館"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：星星发光亮闪闪"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Passion"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Crucifix.??"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：如鱼饮水"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：HlH."
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：春日兔大王"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：太空人"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Roiseyiieo^"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：奶糖开开"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：善见的小狐狸"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：神农路的夏天"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：玩唔起就咪鬼上网献世"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：活人微鼠"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：咕噜咕噜（随地乱爬版）"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：七妖Q"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：超级无敌帅炸天男主（烈烈重度依赖）"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：YYMomo 40.0版 天蝎"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：一口南瓜饼??"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：月亮上的短腿小熊"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：我是小旺旺啦"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：小草今天怎么没更新"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：小柴"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：ian"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：樱丸小桃子"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：鲸鲸鲸鲸鱼"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：柒零玖"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：灵感大王"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：星言逸语"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：蜡笔不小心"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：游戏人间林黛玉"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：讨厌油麦菜"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Whisper"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：鲨鱼辣椒"
+  },
+  {
+    "role": "assistant",
+    "content": "ISFP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：優雨未礼"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Y。"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：野生徒步小透明"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：禁止摆烂??"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：懒狗恨背书"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：猫猫教清汤大老爷"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：隋御弦（别艾特人来看我）"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Asche"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：梳打饼钻孔媛"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：PASS"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：蓝秤砣"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：唉喽Y"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：神奇放气，蹦蹦放屁"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：鲨鱼swag_"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：阿c"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：青慢"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：明天"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：举个??"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：上岸"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：s."
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：爱睡觉的loopyy 作者"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTJ"
+  },
+  {
+    "role": "user",
+    "content": "昵称：饭饭蕾蕾"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：染"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：AAA猛龙过江女士"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：李二狗早点睡，狗命重要"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：小麦落网"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：oreOppap"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：半衰期"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：懒虫虫"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：吃点面包吗"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：gelato星人"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：耶！椰椰菜"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：上善若水"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Yanice_.."
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：你的奎恩"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：yohko"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：久菜晴子"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Atheos"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：Yotin_"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：berry"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  },
+  {
+    "role": "user",
+    "content": "昵称：银河拿铁子（出卡版）"
+  },
+  {
+    "role": "assistant",
+    "content": "ISTP"
+  }
+]
